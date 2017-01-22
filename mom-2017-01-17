@@ -1,0 +1,38 @@
+Get problems out of the way as soon as possible. The sooner we know something is not going to work the better. 
+
+Open a website for our project. 
+  Names, emailadresses and phonenumbers. 
+  Diary
+  Meeting notes
+  Reference
+  Link to the paper. (One click away links)
+  Put a brief annotation
+  what problem
+  what conclusion
+  how does it fit into our project
+  Link to existing code
+  Documentation on the project as a whole. (Paper at the end where we are all authors. But during the project an undergraduate course our report)
+  Working title
+  changes during the project
+  Writing an abstract
+  Working poster
+  Link to a demo. With a poster. 
+  Presentations
+  Very short (2-4 min)
+  Short (~10min)
+  Really long
+  Papers on promela:
+  https://goo.gl/3Bn7rW
+  https://goo.gl/kbvG5S
+  Agda. 
+  Goal: Something comes out of this project that future students can look at to understand formal proofs easier and to see what is formal enough. 
+
+Duties (first week):
+  Write down as detailed as you can write down some proofs on LTL (doesn’t have to be promela.) Just have to be something, as formally as you can.
+  Tutorial on Agda.
+  How would you do one of these typical statements in agda? Pick a small step of a proof and present it using agda. 
+
+Program, statement about the program and then proof on those statements. 
+
+No written comments on anything. We get comments “on the spot” when our paper gets read so that we can edit straight away. 
+Write mini report before the big report. Expand and evolve process-like. Start with the core. 
