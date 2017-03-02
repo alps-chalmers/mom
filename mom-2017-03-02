@@ -1,0 +1,17 @@
+Past Week
+---------
+Tobias/Bambi: working on UG presentation
+Andreas/Johan: working on Ikegami, understanding code, std library being an ass
+Nachi: Written a couple of TLA proofs, defining unprooved satisfaction relation w promela and TLA,nearing the end of his course, 
+Oskar: Reading OwickiLamport, attending UG presentation, writing proofs OL style
+
+Discussed
+---------
+Defining SAT with constructors being rules
+Misra paper talking about post/pre limitations
+Using Oracle in hoare triples creating a new construct
+Problem with LTL and hoare logic, "type mismatch"
+
+Next week
+---------
+TLA presentation maybe tuesday
